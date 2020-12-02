@@ -320,7 +320,7 @@ background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, F
 .servicio-cont{
     display:flex;
     justify-content:center;
-    align-items: ;
+   
 }
 
 .servicio-ind{

@@ -1,7 +1,8 @@
+
 function App() {
   return (
 <div>
-  <h1>hola mundo</h1>
+  <h1 className="textos-header">hola mundo</h1>
 </div>
   );
 }
