@@ -2,7 +2,7 @@ import "./nosotros.css"
 import jonathan_borba_Yod824b0KDA_unsplash from "../../assets/img/jonathan-borba-Yod824b0KDA-unsplash.jpg"
 function Nosotros (){
     return(
-        <section classNameclass="contenedor sobre-nosotros" id="acerca">
+        <section className="contenedor sobre-nosotros" id="acerca">
             <h2 className="titulo">ACERCA DE NOSOTROS</h2>
             <div className="contenedor-sobre-nosotros">
                 <div className="contenido-textos">
