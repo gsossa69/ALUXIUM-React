@@ -2,6 +2,12 @@
     display: flex;
     justify-content: space-evenly;
 }
+.titulo {
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 68px;
+}
 
 .tamaño1{
     width: 50%;
@@ -13,6 +19,7 @@
     width: 50%;
     display: flex;
     align-items: center;
+    color: #000000;
 }
 .sobre-nosotros{
     padding: 30px 0 60px 0;

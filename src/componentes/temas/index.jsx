@@ -7,7 +7,7 @@ import Paisajes from "../../assets/img/Mt Baker Washington taken by Tyler Robins
 import Caricatura from "../../assets/img/IMG_20201003_110139.jpg"
 import Oscuro from "../../assets/img/IMG_20201003_110254.jpg"
 import Lapiz from "../../assets/img/e11c59790960c5fa8e13d02a64b1189a.jpg"
-function Temas (){
+function Tutorial (){
     return (
         <section className="portafolio" id="temas">
             <h2 className="temas">TEMAS</h2>
@@ -73,4 +73,4 @@ function Temas (){
         </section>
     );
 }
-export default Temas;
+export default Tutorial;

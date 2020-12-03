@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from "./App"
-import styles from"./styles/index.css"
+import "./styles/index.css"
 import Home from "./componentes/home"
 import Nosotros from "./componentes/sobre nosotros"
-import Temas from "./componentes/temas"
+import Tutorial from "./componentes/temas"
+import Curso from "./componentes/cursos"
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -12,7 +13,8 @@ ReactDOM.render(
     <App />
     <Home />
     <Nosotros />
-    <Temas />
+    <Tutorial />
+    <Curso />
   </React.StrictMode>,
   document.getElementById('root')
 );
