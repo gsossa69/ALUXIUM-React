@@ -1,4 +1,5 @@
 import "./Home.css"
+
 import logo_footer from "../../assets/img/logo_footer.png"
 function Home (){
     return(

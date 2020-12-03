@@ -1,18 +1,13 @@
-<<<<<<< HEAD
-
-function App() {
-  return (
-<div>
-  <h1 className="textos-header">hola mundo</h1>
-</div>
-=======
+import Nosotros from "./componentes/sobre nosotros"
 import Home from "./componentes/home"
+import Temas from "./componentes/temas"
 function App() {
   return (
     <>
     <Home />
+    <Nosotros />
+    <Temas />
     </>
->>>>>>> 8baf12fe3ca7b27e5f6781c4938a8311c0ad5356
   );
 }
 

@@ -1,0 +1,31 @@
+.contenedor-sobre-nosotros{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tamaño1{
+    width: 50%;
+}
+.contenido-textos p {
+    padding: 0px 0px 30px 15px;
+    font-weight: 500;
+    text-align: justify;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.sobre-nosotros{
+    padding: 30px 0 60px 0;
+}
+
+
+.sobre-nosotros .contenido-textos {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+.contenido-textos h3{
+    margin-bottom: 100px;
+}
