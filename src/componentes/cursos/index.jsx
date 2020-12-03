@@ -1,5 +1,5 @@
-import "./curso.css"
-import Fondo1 from "../../assets/img/fondo1.jpg"
+import "./cursos.css"
+import Fondo1 from "../../assets/img/fondo1.jpeg"
 function Curso() {
     return (
   <section className="about-services" id="cursos">
