@@ -1,0 +1,10 @@
+.fondo {width: 100%;
+    height: 100vh;
+    padding-top: 150px;
+    align-content: center;
+    background: #111 url("../../assets/img/Fondo.jpg");
+    background-blend-mode: soft-light;
+}
+h1, h3{
+    color: white;
+}
