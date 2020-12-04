@@ -152,7 +152,7 @@ footer{
 /* Estilos Yeison */
 
 /*animaciones*/
-#acerca,#temas,#cursos,#fundadores{opacity: 0; transform: translateX(-45px);transition: .5s ease-in-out;}
+#acerca,#temas,#cursos,#fundadores{opacity: 100; transform: translateX(-45px);transition: .5s ease-in-out;}
 #acerca.in-out,#temas.in-out,#cursos.in-out,#fundadores.in-out{opacity: 1; transform: translateX(0px);}
 
 .tt_form input, .tt_form textarea {

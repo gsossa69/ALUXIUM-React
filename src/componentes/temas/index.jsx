@@ -9,17 +9,12 @@ import Oscuro from "../../assets/img/IMG_20201003_110254.jpg"
 import Lapiz from "../../assets/img/e11c59790960c5fa8e13d02a64b1189a.jpg"
 function Tutorial (){
     return (
-        <section className="portafolio" id="temas">
-            <h2 className="temas">TEMAS</h2>
+        <section className="portafolio in-out" id="temas">
+            <div className="contenedor">
+            <h2 className="titulo">TEMAS</h2>
+            <div className="galeria-port">
             <div className="imagen-port">
                 <img src={Rostro} alt=""/>
-            <div className="galeria-port">
-                <img src={Rostro} alt=""/>
-            </div>
-            <div className="hover-galeria">
-                <img src="img/iconos%20de%20tema.png" alt=""/>
-                <p>Proporciones del rostro</p>
-            </div>
             </div>
             <div className="imagen-port">
                 <img src={Detalles} alt=""/>
@@ -69,6 +64,8 @@ function Tutorial (){
                     <img src="img/iconos%20de%20tema.png" alt=""/>
                     <p>tecnica a lapiz</p>
                 </div>
+            </div>
+            </div>
             </div>
         </section>
     );

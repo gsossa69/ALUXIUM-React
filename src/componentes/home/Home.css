@@ -81,7 +81,7 @@ nav a:hover:before {
     width: 50%;
 }
 
-header .textos-header{
+.textos-header{
     display: flex;
     height: 430px;
     width: 100%;
