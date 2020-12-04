@@ -21,6 +21,7 @@ background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, F
 
 .servicio-ind img{
     width: 50%;
+
 }
 
 .servicio-ind h3{
@@ -32,7 +33,7 @@ background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, F
     font-size: 18px;
     text-align: justify;
     padding: 0 11px;
-    width: 100%;
+    width: 50%;
 }
 
 .fondo {width: 100%;
