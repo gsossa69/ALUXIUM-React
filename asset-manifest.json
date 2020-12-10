@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ba3ccc04.chunk.css",
+    "main.js": "./static/js/main.419572f6.chunk.js",
+    "main.js.map": "./static/js/main.419572f6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.25a9ff72.js",
+    "runtime-main.js.map": "./static/js/runtime-main.25a9ff72.js.map",
+    "static/js/2.812a1e38.chunk.js": "./static/js/2.812a1e38.chunk.js",
+    "static/js/2.812a1e38.chunk.js.map": "./static/js/2.812a1e38.chunk.js.map",
+    "static/js/3.14bd2f6f.chunk.js": "./static/js/3.14bd2f6f.chunk.js",
+    "static/js/3.14bd2f6f.chunk.js.map": "./static/js/3.14bd2f6f.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ba3ccc04.chunk.css.map": "./static/css/main.ba3ccc04.chunk.css.map",
+    "static/js/2.812a1e38.chunk.js.LICENSE.txt": "./static/js/2.812a1e38.chunk.js.LICENSE.txt",
+    "static/media/Artist Creates Pencil Drawings That Look Like They’re Lit With Fluorescent Lights.7b6f3d03.jpg": "./static/media/Artist Creates Pencil Drawings That Look Like They’re Lit With Fluorescent Lights.7b6f3d03.jpg",
+    "static/media/Registro.css": "./static/media/Fondo.cecb6b1c.jpg",
+    "static/media/Gran Guía de Dibujo del Cuerpo por Cedarseed en deviantART.6e197a56.jpg": "./static/media/Gran Guía de Dibujo del Cuerpo por Cedarseed en deviantART.6e197a56.jpg",
+    "static/media/IMG-20201023-WA0005.2c171c9d.jpg": "./static/media/IMG-20201023-WA0005.2c171c9d.jpg",
+    "static/media/IMG_20201002_185505.3ddd2381.jpg": "./static/media/IMG_20201002_185505.3ddd2381.jpg",
+    "static/media/IMG_20201003_110139.5e935175.jpg": "./static/media/IMG_20201003_110139.5e935175.jpg",
+    "static/media/IMG_20201003_110254.0415ef52.jpg": "./static/media/IMG_20201003_110254.0415ef52.jpg",
+    "static/media/Mt Baker Washington taken by Tyler Robinson [1365X2048].b2fda12e.jpg": "./static/media/Mt Baker Washington taken by Tyler Robinson [1365X2048].b2fda12e.jpg",
+    "static/media/_DSC0314.ac9d936c.JPG": "./static/media/_DSC0314.ac9d936c.JPG",
+    "static/media/_DSC0318.2874fc59.JPG": "./static/media/_DSC0318.2874fc59.JPG",
+    "static/media/descarga.6a0fd90a.jpg": "./static/media/descarga.6a0fd90a.jpg",
+    "static/media/descarga1.319029fa.png": "./static/media/descarga1.319029fa.png",
+    "static/media/e11c59790960c5fa8e13d02a64b1189a.d4823c98.jpg": "./static/media/e11c59790960c5fa8e13d02a64b1189a.d4823c98.jpg",
+    "static/media/fondo1.8f05350f.jpeg": "./static/media/fondo1.8f05350f.jpeg",
+    "static/media/Home.css": "./static/media/jonathan-borba-Yod824b0KDA-unsplash.75df5098.jpg",
+    "static/media/logo_footer.998649d0.png": "./static/media/logo_footer.998649d0.png",
+    "static/media/logodeface.430aacdc.png": "./static/media/logodeface.430aacdc.png",
+    "static/media/logodeinst.1b2d651d.png": "./static/media/logodeinst.1b2d651d.png",
+    "static/media/logodelheder.f955b938.png": "./static/media/logodelheder.f955b938.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25a9ff72.js",
+    "static/js/2.812a1e38.chunk.js",
+    "static/css/main.ba3ccc04.chunk.css",
+    "static/js/main.419572f6.chunk.js"
+  ]
+}
