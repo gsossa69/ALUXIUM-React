@@ -1,9 +1,12 @@
 import "./Home.css"
 import logo_footer from "../../assets/img/logo_footer.png"
+import "../../styles/index.css"
 function Home (){
     return(
     <header id="inicio">
-        <div className="toggle"></div>
+        <div className="toggle">
+            <span></span>
+        </div>
         <div><img src={logo_footer}  className="logo"/></div>
         <nav>
             <div className="items">
